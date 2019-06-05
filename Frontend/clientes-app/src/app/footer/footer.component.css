@@ -1,0 +1,20 @@
+/*.footer {
+  position: relative;
+  margin-top: -60px; /* negative value of footer height
+  clear:both;
+  padding-top:20px;
+  bottom: 0px;
+  height: 60px;
+  width: 100%;
+}*/
+
+.footer {
+  /*
+  position: relative;
+  position: absolute;
+  position: fixed;*/
+  position: absolute;
+  bottom: 0px;
+  height: 60px;
+  width: 100%;
+}
